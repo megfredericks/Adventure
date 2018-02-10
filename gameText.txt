@@ -1,0 +1,102 @@
+Beginning
+You are surrounded by a lush green forest, closed in by trees that reach towards the sky.
+There are two paths extending to your left and right.
+To the left, you can hear running water. To the right you can barely make out a set of footprints. 
+It will be dark soon. If you don't have water, food, and shelter. . .
+(1) Go left
+(2) Go right
+@
+Clearing
+After following the faint path of footsteps on the ground, you reach a clearing with a small house at its center.
+The shutters on the house are closed, and no light can be seen coming from inside.
+The footsteps seem to continue heading towards the trees to your left, away from the house. 
+(1) Enter the house
+(2) Follow the footsteps
+@
+River
+After following the sound of running water through the thick forest, you finally reach a river.
+
+F O U N D: Water!
+
+The water seems to be clean, as the currents are moving quickly. You still need to find shelter and food.
+The ground is steep heading upstream, and you can't quite see where it goes. 
+(1) Cross the river
+(2) Walk upstream
+@
+Upstream
+The terrain slowly becomes steeper and it is difficult to continue. However, knowing you still must find food and shelter,
+you manage to cross it until you reach a sheer mountain face. Looking up, you can see that the mountain stretches towards the sky
+above you, and a waterfall crashes down to the river. However, a thin wooden bridge extends across the river at this point.
+On your other side, further along the side of the mountain face, there seems to be an indent in the wall.
+(1) Investigate wall
+(2) Cross bridge
+@
+InsideHouse
+You slowly open the door, unsure what to expect. It is dark inside the house, 
+but enough light comes through the shutters that you can barely make out the contents of the room.
+There is a table and chairs in the center, along with a sofa and comfortable-looking chairs. 
+The house seems to be abandoned. There is a closed door to your left. 
+
+F O U N D: Shelter! 
+
+Knowing you can find shelter here when you need to, it is safe to explore further.
+(1) Open door
+(2) Leave house
+@
+Bedroom
+You throw open the door, in case somebody is inside. The room is empty except for a bed with minimal coverings.
+As you walk further into the room, you notice something is under the bed. 
+(1) Look under bed
+(2) Leave house 
+@
+Cave
+After following the side of the mountain face until you reach the indent, you see that there is a narrow opening 
+in the wall that opens up into a cave that is so dark you can't see. Walking in closer, you realize that the cave
+is stable and dry.
+
+F O U N D: Shelter!
+
+(1) Explore further into cave
+(2) Go back to cross bridge
+@
+DeepCave
+You walk further into the darkness, and the more you walk, the less you can see.
+You brush against something--but it's too dark to see anything at all.
+Suddenly, you're thrown backwards by some unseen force. This cave is not your domain.
+@
+Bridge
+The bridge is long and stretches a long way to the far side of the river. As you are crossing,
+one of the wooden planks of the bridge falls into the river, but you continue on. 
+When you finally reach the other side, you can clearly see a path. Following it, you find
+trees full with fruit. You can easily reach it.
+
+F O U N D: Food!
+
+@
+RiverDeath
+You step into the river, thinking the current is slow enough to pass. However, you immediately
+lose your footing and are pulled with great force off your feet and into the river. Perhaps
+you've bitten off more than you can chew.
+@
+TrapDoor
+When you look underneath the bed, an irregularity in the floorboards is visible. Upon closer
+examination, you find that there is a door with a ladder underneath, leading underground. 
+Unable to control your curiosity, you climb down the ladder. You realize you are in a storage room,
+perhaps some kind of safe house. To your shock and awe, you see you are surrounded with canned goods
+of every kind imaginable!
+
+F O U N D: Food!
+
+Seeing that there are no other exits, you take some food with you and return to the clearing outside the house.
+(1) Follow footsteps
+(2) Follow path back to the beginning
+@
+Footsteps
+After following the footsteps for a while, you realize that the trees are beginning to close in on you.
+In fact, it's almost getting too dark to see. The footsteps can no longer be seen and you are left wandering 
+around the forest aimlessly. No food or water can be found, and soon enough it is pitch black. 
+There is nothing left to do. You are left to your fate in the dark forest.
+@
+
+
+
